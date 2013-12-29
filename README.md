@@ -10,8 +10,8 @@ What is HueCoin?
 
 HueCoin is a version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 10 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 210k blocks (~4 years)
+ - ~21 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
